@@ -1,0 +1,5 @@
+jax
+numpy==2.2.4
+matplotlib
+toml
+psutil; platform_system == "Windows"
