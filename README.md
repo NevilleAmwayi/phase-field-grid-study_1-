@@ -5,7 +5,6 @@ How grid resolution affects runtime, memory and simulated patterns for a 2-D Cah
 
 This repository contains **only my benchmark scripts, results and report**. The simulation code is
 the third-party package [`ajvetturini/phase-field-models`](https://github.com/ajvetturini/phase-field-models)
-(A. J. Vetturini, MIT licence; please cite the Zenodo record given in its README). It is not copied here.
 
 ## Contents
 | File | Purpose |
